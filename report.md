@@ -8,6 +8,7 @@
 <div align=center>
     <img src="https://github.com/jiaweizh-823/5056project2/raw/main/figs/fig1.png" >
 </div>
+
 <style>
 table {
 margin: auto;
@@ -16,21 +17,7 @@ margin: auto;
 
 ### 1.1 View
 The main function of view object is to display the user interface. We use the ‘streamlit’ library which is easy to build a web and share data in Python.
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-27gm{background-color:#A5A5A5;color:#FFF;font-size:13px;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-2xum{background-color:#EDEDED;font-size:13px;text-align:left;vertical-align:middle}
-.tg .tg-g60y{background-color:#EDEDED;font-size:13px;text-align:left;vertical-align:top}
-.tg .tg-o5sn{border-color:inherit;font-size:13px;text-align:left;vertical-align:middle}
-.tg .tg-grpo{background-color:#EDEDED;font-size:13px;text-align:center;vertical-align:top}
-.tg .tg-z1yq{font-size:13px;text-align:center;vertical-align:top}
-.tg .tg-vask{font-size:13px;text-align:left;vertical-align:top}
-.tg .tg-nvy4{font-size:13px;text-align:left;vertical-align:middle}
-</style>
+
 <table class="tg">
 <thead>
   <tr>
@@ -87,20 +74,7 @@ The main function of view object is to display the user interface. We use the �
 
 ### 1.2 TrafficData
 The main function of this part is to read data from .csv and return it in pandas.dataframe format.
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9tzt{background-color:#A5A5A5;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-6pjd{background-color:#EDEDED;text-align:center;vertical-align:top}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-o5sn{border-color:inherit;font-size:13px;text-align:left;vertical-align:middle}
-.tg .tg-v7s9{background-color:#EDEDED;text-align:left;vertical-align:top}
-.tg .tg-hl7b{background-color:#EDEDED;text-align:left;vertical-align:middle}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
+
 <table class="tg">
 <thead>
   <tr>
@@ -125,19 +99,7 @@ The main function of this part is to read data from .csv and return it in pandas
 
 ### 1.3 TrafficDataHandler
 This part is for sorting and searching. We use the sort and search functions in pandas.
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9tzt{background-color:#A5A5A5;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-6pjd{background-color:#EDEDED;text-align:center;vertical-align:top}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-o5sn{border-color:inherit;font-size:13px;text-align:left;vertical-align:middle}
-.tg .tg-v7s9{background-color:#EDEDED;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
+
 <table class="tg">
 <thead>
   <tr>
